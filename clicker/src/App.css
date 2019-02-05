@@ -1,0 +1,40 @@
+body {
+
+  background-color: black;
+}
+
+
+img {
+  
+  border: 1px solid white;
+  margin: 10px;
+  max-height: 200px;
+  max-width: 175px;
+  min-height: 200px;
+  min-width: 175px;
+
+}
+
+.container {
+
+  margin-left: 19%;
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  font-family: Determination Mono;
+  border: solid white 2px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.score {
+  margin-right: 10px;
+}
